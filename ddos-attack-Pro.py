@@ -10,8 +10,8 @@ bytes = random._urandom(1490)  # 生成随机字节数据
 # 清屏 & 显示标题
 os.system("clear")
 os.system("figlet DDos Attack")
-print("Author   : HA-MRX")
-print("GitHub   : https://github.com/Ha3MrX")
+print("Author   : GuoDongG")
+print("GitHub   : https://github.com/GuoDongG/DDos-Attack-PRO")
 
 # 输入目标信息
 ip = input("IP Target : ")
